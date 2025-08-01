@@ -15,7 +15,7 @@ connectToMongoDB(MONGODB_URL)
   .then(() => console.log("Database connected successfully"));
 
 app.set("view engine","ejs");
-app.set("views",path.resolve("./view"));
+app.set("views",path.resolve("./views"));
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
