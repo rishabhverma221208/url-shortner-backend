@@ -1,4 +1,4 @@
-const {nanoid} = require("nanoid");
+const { nanoid } = await import("nanoid");
 const URL = require("../model/url");
 
 async function handleGenrateNewShortURL(req, res) {
