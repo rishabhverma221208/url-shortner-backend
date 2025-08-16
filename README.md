@@ -78,7 +78,8 @@ The application includes a comprehensive testing suite to ensure that it is func
 📸 Screenshots
 =============
 
-[Insert screenshots of the application]
+<img width="1897" height="849" alt="Screenshot 2025-08-16 202507" src="https://github.com/user-attachments/assets/b5515e0b-3934-49e7-aef3-4d818c602915" />
+
 
 📦 API Reference
 ================
@@ -88,9 +89,10 @@ The application includes a rich set of APIs for URL generation, analytics tracki
 👤 Author
 =====
 
-The project was created by [Your Name].
+The project was created by Rishabh Verma.
 
 📝 License
 ==========
 
 The project is licensed under the MIT License. For more information, please refer to the LICENSE file.
+
